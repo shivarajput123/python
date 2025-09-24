@@ -1,0 +1,6 @@
+print(" hi bro") 
+print("my name is shiva rajput")
+print ("my age is 20")
+print("my name is shiva rajput  ","my age is 20")
+print (23)
+print(35+23)
